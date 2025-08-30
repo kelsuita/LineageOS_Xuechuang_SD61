@@ -1,0 +1,2 @@
+# LineageOS_Xuechuang_SD61
+为SD61制作的lineageos们，现已支持基于Android10的LineageOS17，后续将支持更多Android版本
