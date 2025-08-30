@@ -1,4 +1,4 @@
-#LineageOS_Xuechuang_SD61
+## LineageOS_Xuechuang_SD61
 
 ## 📱 支持的设备
 学创教育的SD61教育平板设备
